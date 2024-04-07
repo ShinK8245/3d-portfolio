@@ -268,149 +268,149 @@ const projects = [
     image: calculator,
     source_code_link: "https://github.com/ShinK8245/calculator",
   },
-  {
-    name: "ToDo List app",
-    description:
-      "This app is built with React to help you easily organize and prioritize tasks. Its simple design and intuitive controls make managing your to-dos effortless and efficient.",
+//   {
+//     name: "ToDo List app",
+//     description:
+//       "This app is built with React to help you easily organize and prioritize tasks. Its simple design and intuitive controls make managing your to-dos effortless and efficient.",
 
-    tags: [
-      {
-        name: "javascript",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "react",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: todolist,
-    source_code_link: "https://github.com/ShinK8245/To-do-List",
-  },
-  {
-    name: "Flip Match",
-    description:
-      "Play Flip Match, a fun game where you match hidden pictures. It's simple, with different grid sizes like 4x4 to 8x8, great for improving memory and speed.",
-    tags: [
-      {
-        name: "html",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "javascript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "react",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: flipmatch,
-    source_code_link: "https://github.com/ShinK8245/matching-card",
-  },
-  {
-    name: "Twistagram",
-    description:
-      "TwistaGram blends Twitter's quick posts with Instagram's visuals, making sharing easy and fun. Designed for mobile-friendly.",
-    tags: [
-      {
-        name: "typescript",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mui",
-        color: "green-text-gradient",
-      },
-      {
-        name: "next.js",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "nextauth.js",
-        color: "orange-text-gradient",
-      },
-      {
-        name: "tRPC",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "planescale",
-        color: "green-text-gradient",
-      },
-      {
-        name: "prisma",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: twistagram,
-    source_code_link: "https://github.com/Re-boot-Coding-Bootcamp/TwistaGram",
-  },
-  {
-    name: "facilPay",
-    description:
-      "The Facil App lets users easily chat and pay each other using a built-in digital wallet. It aims to make using digital money and blockchain simple and part of everyday life.",
-    tags: [
-      {
-        name: "figma",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "sketch",
-        color: "green-text-gradient",
-      },
-      {
-        name: "javascript",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: facilpay,
-    source_code_link: "https://www.facilpay.io/",
-  },
-  {
-    name: "E-commerce: Bazaar",
-    description:
-      "Chain Imperium is a website that helps build blockchain technology, create digital contracts, start NFT marketplaces, and make virtual worlds called Metaverses.",
-    tags: [
-      {
-        name: "figma",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "sketch",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: chain,
-    source_code_link: "https://www.chainimperium.com/",
-  },
-  {
-    name: "AI meal-kit app",
-    description:
-      "Chain Imperium is a website that offers services like building blockchain systems, creating smart contracts, setting up NFT marketplaces, and developing virtual worlds known as Metaverses.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: flipmatch,
-    source_code_link: "https://github.com/",
-  },
-];
+//     tags: [
+//       {
+//         name: "javascript",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "react",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: todolist,
+//     source_code_link: "https://github.com/ShinK8245/To-do-List",
+//   },
+//   {
+//     name: "Flip Match",
+//     description:
+//       "Play Flip Match, a fun game where you match hidden pictures. It's simple, with different grid sizes like 4x4 to 8x8, great for improving memory and speed.",
+//     tags: [
+//       {
+//         name: "html",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "javascript",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "react",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: flipmatch,
+//     source_code_link: "https://github.com/ShinK8245/matching-card",
+//   },
+//   {
+//     name: "Twistagram",
+//     description:
+//       "TwistaGram blends Twitter's quick posts with Instagram's visuals, making sharing easy and fun. Designed for mobile-friendly.",
+//     tags: [
+//       {
+//         name: "typescript",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "mui",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "next.js",
+//         color: "pink-text-gradient",
+//       },
+//       {
+//         name: "nextauth.js",
+//         color: "orange-text-gradient",
+//       },
+//       {
+//         name: "tRPC",
+//         color: "pink-text-gradient",
+//       },
+//       {
+//         name: "planescale",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "prisma",
+//         color: "blue-text-gradient",
+//       },
+//     ],
+//     image: twistagram,
+//     source_code_link: "https://github.com/Re-boot-Coding-Bootcamp/TwistaGram",
+//   },
+//   {
+//     name: "facilPay",
+//     description:
+//       "The Facil App lets users easily chat and pay each other using a built-in digital wallet. It aims to make using digital money and blockchain simple and part of everyday life.",
+//     tags: [
+//       {
+//         name: "figma",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "sketch",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "javascript",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: facilpay,
+//     source_code_link: "https://www.facilpay.io/",
+//   },
+//   {
+//     name: "E-commerce: Bazaar",
+//     description:
+//       "Chain Imperium is a website that helps build blockchain technology, create digital contracts, start NFT marketplaces, and make virtual worlds called Metaverses.",
+//     tags: [
+//       {
+//         name: "figma",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "sketch",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: chain,
+//     source_code_link: "https://www.chainimperium.com/",
+//   },
+//   {
+//     name: "AI meal-kit app",
+//     description:
+//       "Chain Imperium is a website that offers services like building blockchain systems, creating smart contracts, setting up NFT marketplaces, and developing virtual worlds known as Metaverses.",
+//     tags: [
+//       {
+//         name: "nextjs",
+//         color: "blue-text-gradient",
+//       },
+//       {
+//         name: "supabase",
+//         color: "green-text-gradient",
+//       },
+//       {
+//         name: "css",
+//         color: "pink-text-gradient",
+//       },
+//     ],
+//     image: flipmatch,
+//     source_code_link: "https://github.com/",
+//   },
+// ];
 
 export { services, technologies, experiences, testimonials, projects };
