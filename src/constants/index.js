@@ -370,7 +370,7 @@ const projects = [
     source_code_link: "https://www.facilpay.io/",
   },
   {
-    name: "re:boot Bazaar",
+    name: "E-commerce: Bazaar",
     description:
       "Chain Imperium is a website that helps build blockchain technology, create digital contracts, start NFT marketplaces, and make virtual worlds called Metaverses.",
     tags: [
