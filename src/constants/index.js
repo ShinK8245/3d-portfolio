@@ -25,6 +25,7 @@ import {
   threejs,
   twistagram,
   calculator,
+  todolist,
 } from "../assets";
 
 export const navLinks = [
@@ -265,6 +266,28 @@ const projects = [
     ],
     image: calculator,
     source_code_link: "https://github.com/ShinK8245/calculator",
+  },
+  {
+    name: "ToDo List app",
+    description:
+      "This app is built with React to help you easily organize and prioritize tasks. Its simple design and intuitive controls make managing your to-dos effortless and efficient.",
+
+    tags: [
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: todolist,
+    source_code_link: "https://github.com/ShinK8245/To-do-List",
   },
   {
     name: "Flip Match",

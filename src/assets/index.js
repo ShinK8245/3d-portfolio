@@ -33,6 +33,7 @@ import artemis from "./artemis.png";
 import chain from "./chain.png";
 import flipmatch from "./flipmatch.png";
 import calculator from "./calculator.png";
+import todolist from "./todolist.png";
 
 export {
   logo,
@@ -67,4 +68,5 @@ export {
   click,
   twistagram,
   calculator,
+  todolist,
 };
