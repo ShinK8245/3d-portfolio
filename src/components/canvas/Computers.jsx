@@ -7,9 +7,17 @@ import CanvasLoader from "../Loader";
 const Computers = ({ isMobile }) => {
   const computer = useGLTF("./desktop_pc/scene.gltf");
 
+  const onPointerOver = () => {
+    document.body.style.cursor = "pointer";
+  };
+
+  const onPointerOut = () => {
+    document.body.style.cursor = "auto";
+  };
+
   return (
-    <mesh>
-      <hemisphereLight intensity={3} groundColor="black" />
+    <mesh onPointerOver={onPointerOver} onPointerOut={onPointerOut}>
+      <hemisphereLight intensity={4} groundColor="black" />
       <spotLight
         position={[-20, 50, 10]}
         angle={0.12}

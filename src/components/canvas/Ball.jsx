@@ -13,11 +13,25 @@ import CanvasLoader from "../Loader";
 const Ball = (props) => {
   const [decal] = useTexture([props.imgUrl]);
 
+  const onPointerOver = () => {
+    document.body.style.cursor = "pointer";
+  };
+
+  const onPointerOut = () => {
+    document.body.style.cursor = "auto";
+  };
+
   return (
     <Float speed={3} rotationIntensity={3} floatIntensity={4}>
       <ambientLight intensity={0.5} />
       <directionalLight position={[0, 2, 1.5]} />
-      <mesh castShadow receiveShadow scale={2.75}>
+      <mesh
+        castShadow
+        receiveShadow
+        scale={2.75}
+        onPointerOver={onPointerOver}
+        onPointerOut={onPointerOut}
+      >
         <icosahedronGeometry args={[1, 1]} />
         <meshStandardMaterial
           color="#fff8eb"
