@@ -133,7 +133,7 @@ const experiences = [
   },
   {
     title: "UI Designer/Frontend Developer",
-    company_name: "ChainImperium",
+    company_name: "Chain Imperium",
     icon: chainimperium,
     iconBg: "#E6DEDD",
     date: "Jul 2023 - Nov 2023",
