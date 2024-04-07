@@ -24,6 +24,7 @@ import {
   flipmatch,
   threejs,
   twistagram,
+  calculator,
 } from "../assets";
 
 export const navLinks = [
@@ -242,6 +243,28 @@ const projects = [
     ],
     image: chain,
     source_code_link: "https://www.chainimperium.com/",
+  },
+  {
+    name: "Calculator",
+    description:
+      "This web calculator offers simple arithmetic operations like add, subtract, multiply, divide, percentages, and sign changes, all within a user-friendly design.",
+
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: calculator,
+    source_code_link: "https://github.com/ShinK8245/calculator",
   },
   {
     name: "Flip Match",

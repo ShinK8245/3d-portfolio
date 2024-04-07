@@ -32,6 +32,7 @@ import twistagram from "./twistagram.png";
 import artemis from "./artemis.png";
 import chain from "./chain.png";
 import flipmatch from "./flipmatch.png";
+import calculator from "./calculator.png";
 
 export {
   logo,
@@ -65,4 +66,5 @@ export {
   nextjs,
   click,
   twistagram,
+  calculator,
 };
