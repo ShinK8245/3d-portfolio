@@ -68,14 +68,14 @@ const Works = () => {
     slidesToScroll: 1,
     responsive: [
       {
-        breakpoint: 1024, // Adjust breakpoint for tablets
+        breakpoint: 1220,
         settings: {
-          slidesToShow: 2, // Reduce the number of slides shown on tablets
+          slidesToShow: 2,
           slidesToScroll: 1,
         },
       },
       {
-        breakpoint: 768,
+        breakpoint: 850,
         settings: {
           slidesToShow: 1,
           slidesToScroll: 1,
