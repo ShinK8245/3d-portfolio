@@ -175,7 +175,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Shin, a passionate web development learner who collaborates closely with us. Thankful for his dedication!",
+      "Shin, a passionate web development learner who collaborates closely with cohorts. Thankful for his dedication!",
     name: "Muradil Erkin",
     designation: "CEO",
     company: "re:boot",
