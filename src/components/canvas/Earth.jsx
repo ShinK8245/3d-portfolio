@@ -15,6 +15,7 @@ const Earth = () => {
 const EarthCanvas = () => {
   return (
     <Canvas
+      style={{ cursor: "pointer" }}
       shadows
       frameloop="demand"
       dpr={[1, 2]}
