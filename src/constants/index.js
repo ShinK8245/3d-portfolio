@@ -269,7 +269,7 @@ const projects = [
     source_code_link: "https://github.com/ShinK8245/calculator",
   },
   {
-    name: "ToDo List app",
+    name: "ToDo app",
     description:
       "This app is built with React to help you easily organize and prioritize tasks. Its simple design and intuitive controls make managing your to-dos effortless and efficient.",
 
