@@ -20,6 +20,7 @@ const ProjectCard = ({ name, description, tags, image, source_code_link }) => {
         speed: 450,
       }}
       className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full"
+      style={{ margin: "0 10px" }}
     >
       <div className="relative w-full h-[230px]">
         <img
