@@ -26,6 +26,7 @@ import {
   twistagram,
   calculator,
   todolist,
+  facilpay,
 } from "../assets";
 
 export const navLinks = [
@@ -132,7 +133,7 @@ const experiences = [
     ],
   },
   {
-    title: "UI Designer/Frontend Developer",
+    title: "UI Designer",
     company_name: "Chain Imperium",
     icon: chainimperium,
     iconBg: "#E6DEDD",
@@ -346,6 +347,27 @@ const projects = [
     ],
     image: twistagram,
     source_code_link: "https://github.com/Re-boot-Coding-Bootcamp/TwistaGram",
+  },
+  {
+    name: "facilPay",
+    description:
+      "The Facil App lets users easily chat and pay each other using a built-in digital wallet. It aims to make using digital money and blockchain simple and part of everyday life.",
+    tags: [
+      {
+        name: "figma",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: facilpay,
+    source_code_link: "https://www.facilpay.io/",
   },
   {
     name: "re:boot Bazaar",

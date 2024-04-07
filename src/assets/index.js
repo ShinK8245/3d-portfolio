@@ -34,6 +34,7 @@ import chain from "./chain.png";
 import flipmatch from "./flipmatch.png";
 import calculator from "./calculator.png";
 import todolist from "./todolist.png";
+import facilpay from "./facilpay.png";
 
 export {
   logo,
@@ -69,4 +70,5 @@ export {
   twistagram,
   calculator,
   todolist,
+  facilpay,
 };
