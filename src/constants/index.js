@@ -266,7 +266,7 @@ const projects = [
       },
     ],
     image: calculator,
-    source_code_link: "https://github.com/ShinK8245/calculator",
+    source_code_link: "https://calculator.skim-dev.com/",
   },
   {
     name: "ToDo app",
@@ -288,7 +288,7 @@ const projects = [
       },
     ],
     image: todolist,
-    source_code_link: "https://github.com/ShinK8245/To-do-List",
+    source_code_link: "https://todolist.skim-dev.com/",
   },
   {
     name: "Flip Match",
@@ -309,7 +309,7 @@ const projects = [
       },
     ],
     image: flipmatch,
-    source_code_link: "https://github.com/ShinK8245/matching-card",
+    source_code_link: "https://flipmatch.skim-dev.com/",
   },
   {
     name: "Twistagram",
@@ -337,7 +337,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "planescale",
+        name: "planetscale",
         color: "green-text-gradient",
       },
       {
@@ -346,7 +346,7 @@ const projects = [
       },
     ],
     image: twistagram,
-    source_code_link: "https://github.com/Re-boot-Coding-Bootcamp/TwistaGram",
+    source_code_link: "https://twistagram.re-boot.us/",
   },
   {
     name: "facilPay",
