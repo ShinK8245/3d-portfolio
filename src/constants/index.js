@@ -314,7 +314,7 @@ const projects = [
   {
     name: "Twistagram",
     description:
-      "TwistaGram blends Twitter's quick posts with Instagram's visuals, making sharing easy and fun. It's fully mobile-friendly, so you can connect on the go. Simple, fast, social.",
+      "TwistaGram blends Twitter's quick posts with Instagram's visuals, making sharing easy and fun. Designed for mobile-friendly.",
     tags: [
       {
         name: "typescript",
