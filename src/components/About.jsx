@@ -57,7 +57,7 @@ const About = () => {
         into engaging digital experiences. Let's make something great together!
         <div className="mt-4 flex gap-5">
           <a
-            href="https://github.com/ShinK8245" // Replace with your GitHub profile link
+            href="https://github.com/ShinK8245"
             target="_blank"
             rel="noopener noreferrer"
             className="text-cyan-400 hover:underline"
@@ -65,7 +65,7 @@ const About = () => {
             <FontAwesomeIcon icon={faGithub} /> GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/shin-kim-0321032b1/" // Replace with your LinkedIn profile link
+            href="https://www.linkedin.com/in/shin-kim-0321032b1/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-cyan-400 hover:underline"
