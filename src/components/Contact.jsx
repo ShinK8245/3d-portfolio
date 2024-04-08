@@ -87,7 +87,7 @@ const Contact = () => {
               name="name"
               value={form.name}
               onChange={handleChange}
-              placeholder="What's your good name?"
+              placeholder="What's your name?"
               className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
             />
           </label>
@@ -98,7 +98,7 @@ const Contact = () => {
               name="email"
               value={form.email}
               onChange={handleChange}
-              placeholder="What's your web address?"
+              placeholder="What's your email address?"
               className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
             />
           </label>
@@ -114,12 +114,24 @@ const Contact = () => {
             />
           </label>
 
-          <button
-            type="submit"
-            className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
-          >
-            {loading ? "Sending..." : "Send"}
-          </button>
+          <div className="flex justify-between items-center">
+            <button
+              style={{ width: "110px" }}
+              type="submit"
+              className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
+            >
+              {loading ? "Sending..." : "Send"}
+            </button>
+            <p className="text-secondary font-medium">OR</p>
+            <button
+              style={{ width: "110px" }}
+              type="button"
+              onClick={() => (window.location.href = "tel:17038645209")}
+              className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
+            >
+              Call
+            </button>
+          </div>
         </form>
       </motion.div>
 
