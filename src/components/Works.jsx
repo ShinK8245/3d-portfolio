@@ -19,8 +19,8 @@ const ProjectCard = ({ name, description, tags, image, source_code_link }) => {
         scale: 1,
         speed: 450,
       }}
-      className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full"
-      style={{ margin: "0 10px" }}
+      className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full gap-3 mx-auto"
+      // style={{ margin: "0 10px" }}
     >
       <div className="relative w-full h-[230px]">
         <img
@@ -75,7 +75,7 @@ const Works = () => {
         },
       },
       {
-        breakpoint: 850,
+        breakpoint: 860,
         settings: {
           slidesToShow: 1,
           slidesToScroll: 1,
