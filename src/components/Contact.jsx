@@ -116,7 +116,7 @@ const Contact = () => {
 
           <div className="flex justify-between items-center">
             <button
-              style={{ width: "110px" }}
+              style={{ width: "100px" }}
               type="submit"
               className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
             >
@@ -124,7 +124,7 @@ const Contact = () => {
             </button>
             <p className="text-secondary font-medium">OR</p>
             <button
-              style={{ width: "110px" }}
+              style={{ width: "100px" }}
               type="button"
               onClick={() => (window.location.href = "tel:17038645209")}
               className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
