@@ -248,17 +248,16 @@ const projects = [
     source_code_link: "https://www.chainimperium.com/",
   },
   {
-    name: "Calculator",
+    name: "facilPay",
     description:
-      "This web calculator offers simple arithmetic operations like add, subtract, multiply, divide, percentages, and sign changes, all within a user-friendly design.",
-
+      "The Facil App lets users easily chat and pay each other using a built-in digital wallet. It aims to make using digital money and blockchain simple and part of everyday life.",
     tags: [
       {
-        name: "html",
+        name: "figma",
         color: "blue-text-gradient",
       },
       {
-        name: "css",
+        name: "sketch",
         color: "green-text-gradient",
       },
       {
@@ -266,9 +265,10 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: calculator,
-    source_code_link: "https://calculator.skim-dev.com/",
+    image: facilpay,
+    source_code_link: "https://www.facilpay.io/",
   },
+
   {
     name: "ToDo app",
     description:
@@ -349,17 +349,61 @@ const projects = [
     image: twistagram,
     source_code_link: "https://twistagram.re-boot.us/",
   },
+
+  // {
+  //   name: "E-commerce: Bazaar",
+  //   description:
+  //     "Chain Imperium is a website that helps build blockchain technology, create digital contracts, start NFT marketplaces, and make virtual worlds called Metaverses.",
+  //   tags: [
+  //     {
+  //       name: "figma",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "sketch",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: chain,
+  //   source_code_link: "https://www.chainimperium.com/",
+  // },
+  // {
+  //   name: "AI meal-kit app",
+  //   description:
+  //     "Chain Imperium is a website that offers services like building blockchain systems, creating smart contracts, setting up NFT marketplaces, and developing virtual worlds known as Metaverses.",
+  //   tags: [
+  //     {
+  //       name: "nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "supabase",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: flipmatch,
+  //   source_code_link: "https://github.com/",
+  // },
   {
-    name: "facilPay",
+    name: "Calculator",
     description:
-      "The Facil App lets users easily chat and pay each other using a built-in digital wallet. It aims to make using digital money and blockchain simple and part of everyday life.",
+      "This web calculator offers simple arithmetic operations like add, subtract, multiply, divide, percentages, and sign changes, all within a user-friendly design.",
+
     tags: [
       {
-        name: "figma",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "sketch",
+        name: "css",
         color: "green-text-gradient",
       },
       {
@@ -367,50 +411,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: facilpay,
-    source_code_link: "https://www.facilpay.io/",
-  },
-  {
-    name: "E-commerce: Bazaar",
-    description:
-      "Chain Imperium is a website that helps build blockchain technology, create digital contracts, start NFT marketplaces, and make virtual worlds called Metaverses.",
-    tags: [
-      {
-        name: "figma",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "sketch",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: chain,
-    source_code_link: "https://www.chainimperium.com/",
-  },
-  {
-    name: "AI meal-kit app",
-    description:
-      "Chain Imperium is a website that offers services like building blockchain systems, creating smart contracts, setting up NFT marketplaces, and developing virtual worlds known as Metaverses.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: flipmatch,
-    source_code_link: "https://github.com/",
+    image: calculator,
+    source_code_link: "https://calculator.skim-dev.com/",
   },
 ];
 
