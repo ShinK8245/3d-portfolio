@@ -147,19 +147,6 @@ const experiences = [
   },
   {
     title: "Software Engineer",
-    company_name: "re:boot",
-    icon: reboot,
-    iconBg: "#383E56",
-    date: "Dec 2023 - Present",
-    points: [
-      "Developed front-end and full-stack applications with React.js and TypeScript, improved interfaces with Next.js, and applied styles using Tailwind CSS and Material UI.",
-      "Used Redux for state management and react-hook-form and Formik for efficient form processing, ensuring web applications are responsive and efficient.",
-      "Conducted code reviews using Git and GitHub for version control, provided feedback to improve code quality and maintainability.",
-      "Participated in agile development, contributed to team meetings, and managed project updates and reports with NPM.",
-    ],
-  },
-  {
-    title: "Software Engineer",
     company_name: "facilPAY",
     icon: facil,
     iconBg: "#E6DEDD",
@@ -169,6 +156,19 @@ const experiences = [
       "Managed state with Redux and streamlined forms with react-hook-form and Formik, ensuring web applications are responsive and efficient.",
       "Performed code reviews using Git and GitHub, providing feedback to enhance code quality.",
       "Contributed to agile development processes, participating in team meetings and managing projects with NPM.",
+    ],
+  },
+  {
+    title: "Software Engineer",
+    company_name: "re:boot",
+    icon: reboot,
+    iconBg: "#383E56",
+    date: "Dec 2023 - Present",
+    points: [
+      "Developed front-end and full-stack applications with React.js and TypeScript, improved interfaces with Next.js, and applied styles using Tailwind CSS and Material UI.",
+      "Used Redux for state management and react-hook-form and Formik for efficient form processing, ensuring web applications are responsive and efficient.",
+      "Conducted code reviews using Git and GitHub for version control, provided feedback to improve code quality and maintainability.",
+      "Participated in agile development, contributed to team meetings, and managed project updates and reports with NPM.",
     ],
   },
 ];
