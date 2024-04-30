@@ -232,15 +232,15 @@ const projects = [
       "Chain Imperium is a website that helps build blockchain technology, create digital contracts, start NFT marketplaces, and make virtual worlds called Metaverses.",
     tags: [
       {
-        name: "figma",
+        name: "tailwindCSS",
         color: "blue-text-gradient",
       },
       {
-        name: "sketch",
+        name: "javascript",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "react",
         color: "pink-text-gradient",
       },
     ],
@@ -253,15 +253,15 @@ const projects = [
       "The Facil App lets users easily chat and pay each other using a built-in digital wallet. It aims to make using digital money and blockchain simple and part of everyday life.",
     tags: [
       {
-        name: "figma",
+        name: "tailwindCSS",
         color: "blue-text-gradient",
       },
       {
-        name: "sketch",
+        name: "javascript",
         color: "green-text-gradient",
       },
       {
-        name: "javascript",
+        name: "react",
         color: "pink-text-gradient",
       },
     ],
