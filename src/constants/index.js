@@ -167,7 +167,7 @@ const experiences = [
     points: [
       "Delivered secure, scalable features, optimizing user experience and compliance.",
       "Built static content API with GraphQL, improving content delivery and performance.",
-      "mproved code quality with Cypress/Jest testing, reducing post-release bugsy.",
+      "Improved code quality with Cypress/Jest testing, reducing post-release bugsy.",
     ],
   },
 ];
